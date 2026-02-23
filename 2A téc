@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Meu Animal de Estimação</title>
+</head>
+<body>
+<h1>Maya</h1>
+<h2>preguiçosa,brava</h2>
+<p>uma cachorra que adora carinho pórem não gosta de brincar com desconhecidos,
+    ama dormir e comer gosta de atenção.
+</p>
+
+<img src="princesa.jfif" alt="Imagem do animal">
+</body>
+</html>
